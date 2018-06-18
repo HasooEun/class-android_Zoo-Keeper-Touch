@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zoo Keeper Touch</string>
+    <string name="counter">0</string>
+    <string name="imgDescription">imgs</string>
+    <string name="start_game">Start Game</string>
+    <string name="time">남은 시간: </string>
+    <string name="end">종료</string>
+    <string name="totalScore">총점</string>
+    <string name="wantName">이름을 입력해주세요</string>
+    <string name="rank">등수</string>
+    <string name="score">점수</string>
+    <string name="name">이름</string>
+</resources>
